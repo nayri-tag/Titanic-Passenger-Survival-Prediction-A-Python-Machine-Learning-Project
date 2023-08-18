@@ -7,9 +7,9 @@ Conducted data cleaning and preprocessing, handled missing values, dropped irrel
 Implemented and compared an Artificial Neural Network (ANN) and Logistic Regression model, achieving 78.36% and 82.09% accuracy on the test set. Evaluated using accuracy, confusion matrix, and classification report.
 
 ## Age Distribution
-<img width="790" alt="Age Distribution by Survival" src="https://github.com/nayri-tag/Titanic-Passenger-Survival-Prediction-A-Python-Machine-Learning-Project/assets/124470974/4344465f-bd1c-453b-bf56-26dfc978645b">
+<img width="625" alt="Age Distribution by Survival" src="https://github.com/nayri-tag/Titanic-Passenger-Survival-Prediction-A-Python-Machine-Learning-Project/assets/124470974/4344465f-bd1c-453b-bf56-26dfc978645b">
 
-<img width="781" alt="Age Distribution w Stat Values" src="https://github.com/nayri-tag/Titanic-Passenger-Survival-Prediction-A-Python-Machine-Learning-Project/assets/124470974/3f27e757-6080-4fbc-ab71-d272cad1f84b">
+<img width="625" alt="Age Distribution w Stat Values" src="https://github.com/nayri-tag/Titanic-Passenger-Survival-Prediction-A-Python-Machine-Learning-Project/assets/124470974/3f27e757-6080-4fbc-ab71-d272cad1f84b">
 
 ## ANN
 <img width="444" alt="ANN Plot" src="https://github.com/nayri-tag/Titanic-Passenger-Survival-Prediction-A-Python-Machine-Learning-Project/assets/124470974/03ec9ceb-d28c-449b-bdbc-602cfc046ced">
